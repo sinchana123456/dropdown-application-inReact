@@ -1,0 +1,16 @@
+.radio{
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+    flex-direction: row;
+    float: right;
+    margin-top: 10px;
+    margin-right: -100px;
+}
+
+.radio label{
+    font-size: 15px;
+    font-weight: 700;
+    margin-right: 17px;
+
+}

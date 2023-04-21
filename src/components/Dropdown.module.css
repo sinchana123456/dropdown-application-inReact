@@ -1,0 +1,31 @@
+.dropdown{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 17px;
+    width: 90%;
+    max-width: 50rem;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: white;
+}
+
+.dropdown label{
+    font-weight: 800;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items:flex-start;
+    margin-bottom: 0.7rem;
+    margin-left: -1.2rem;
+}
+
+.dropdown select{
+    margin: 0 ;
+    padding: 10px;
+    border: 0.5px solid rgb(85, 83, 83);
+    margin-bottom: 1rem;
+    font-size: 18px;
+    border-radius: 5px;
+    width: 90%;
+    margin-left: -5rem;
+    transition: background-color 1s;
+}
